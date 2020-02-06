@@ -3,17 +3,22 @@
 Дипломный проект представляет собой автоматизацию тестирования комплексного сервиса, 
 взаимодействующего с СУБД и API Банка.
 
+_[задание](/documents/Task.md)_
+
 ## Документы:
 
-_[План автоматизации](https://github.com/shpilkaQA/diplom/blob/master/documents/Plan.md)_
+_[План автоматизации](/documents/Plan.md)_
 
-_[Отчёт о проведённом тестировании](https://github.com/shpilkaQA/diplom/blob/master/documents/Report.md)_
+_[Отчёт о проведённом тестировании](/documents/Report.md)_
 
-_[Отчёт о проведённой автоматизации](https://github.com/shpilkaQA/diplom/blob/master/documents/Summary.md)_
+_[Отчёт о проведённой автоматизации](/documents/Summary.md)_
+
+_[баги](https://github.com/shpilkaQA/diplom-portfolio/issues)_
 
 ## Инструкция по запуску:
 
-**для Windows (*для остальных ОС использовать localhost вместо ip*)**
+### **для Windows**
+**(*для остальных ОС использовать localhost вместо ip*)**
 
 1. Клонировать текущий репозиторий
 1. Перейти в директорию с клонированным репозиторием
