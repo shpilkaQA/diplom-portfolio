@@ -17,7 +17,7 @@ _[баги](https://github.com/shpilkaQA/diplom-portfolio/issues)_
 
 ## Инструкция по запуску:
 
-### **для Windows**
+### ***для Windows***
 **(*для остальных ОС использовать localhost вместо ip*)**
 
 1. Клонировать текущий репозиторий
